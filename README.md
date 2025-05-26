@@ -85,3 +85,21 @@ Controle o fluxo do seu programa com decisões condicionais:
 - **Com estruturas de repetição** – Uso combinado com loops.
 - **List Comprehensions com `if`** – Filtros em listas.
 
+
+---
+
+## 🔁 Estruturas de Repetição
+
+[🔗 Saiba mais](https://pythonacademy.com.br/blog/estruturas-de-repeticao)
+
+Repita ações automaticamente com os laços de repetição do Python:
+
+- **Introdução**
+- **`for`** – Laço com iteração definida.
+- **`while`** – Laço com condição lógica.
+- **Comandos `break` e `continue`** – Controle do fluxo interno.
+- **`else` com loops** – Ação após o fim da repetição.
+- **Iterando com `range()`** – Laços numéricos simples.
+- **Iterando coleções** – Listas, strings e dicionários.
+- **Com estruturas condicionais** – Combinação com `if`, `else`.
+- **List Comprehensions com `for`** – Criação de listas em uma linha.
