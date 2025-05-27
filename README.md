@@ -11,7 +11,8 @@ Repositório dedicado ao estudo da linguagem Python. Este material está sendo c
 2. [Tipos de Variáveis](#🧮-tipos-de-variáveis)  
 3. [Operadores Aritméticos e Lógicos](#➗-operadores-aritméticos-e-lógicos)  
 4. [Estruturas Condicionais](#🔀-estruturas-condicionais)  
-4. [Estruturas de Repetição](#🔀-estruturas-de-Repetição)  
+5. [Estruturas de Repetição](#🔀-estruturas-de-Repetição)
+6. [Listas no python](#📋-Listas )    
 ---
 
 ## 🧠 Aprendizado Interativo com Codédex
@@ -107,7 +108,7 @@ Repita ações automaticamente com os laços de repetição do Python:
 
 ---
 
-## 📋 Listas no Python
+## 📋 Listas 
 
 [🔗 Saiba mais](https://pythonacademy.com.br/blog/listas-no-python)
 
