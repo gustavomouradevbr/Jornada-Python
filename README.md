@@ -11,7 +11,7 @@ Repositório dedicado ao estudo da linguagem Python. Este material está sendo c
 2. [Tipos de Variáveis](#🧮-tipos-de-variáveis)  
 3. [Operadores Aritméticos e Lógicos](#➗-operadores-aritméticos-e-lógicos)  
 4. [Estruturas Condicionais](#🔀-estruturas-condicionais)  
-
+4. [Estruturas de Repetição](#🔀-estruturas-de-Repetição)  
 ---
 
 ## 🧠 Aprendizado Interativo com Codédex
