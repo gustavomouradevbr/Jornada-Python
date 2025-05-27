@@ -103,3 +103,22 @@ Repita ações automaticamente com os laços de repetição do Python:
 - **Iterando coleções** – Listas, strings e dicionários.
 - **Com estruturas condicionais** – Combinação com `if`, `else`.
 - **List Comprehensions com `for`** – Criação de listas em uma linha.
+
+
+---
+
+## 📋 Listas no Python
+
+[🔗 Saiba mais](https://pythonacademy.com.br/blog/listas-no-python)
+
+Listas são uma das estruturas de dados mais fundamentais e poderosas no Python. Elas permitem armazenar múltiplos valores em uma única variável, sendo extremamente úteis para armazenar sequências de dados, como números, strings, objetos e até outras listas. O melhor de tudo é que elas são **mutáveis**, o que significa que você pode modificar seu conteúdo ao longo do tempo.
+
+### **Introdução**
+Listas no Python são coleções **ordenadas**, o que significa que a ordem dos elementos é preservada. Cada elemento em uma lista tem um **índice**, que começa em 0, permitindo acessar qualquer item diretamente. Além disso, as listas são **mutáveis**, o que significa que você pode adicionar, remover ou modificar itens mesmo após a criação da lista.
+
+Elas são incrivelmente versáteis e podem armazenar itens de tipos diferentes, o que oferece flexibilidade ao trabalhar com coleções de dados complexos. Por exemplo, uma lista pode conter números inteiros, strings e até outras listas ou objetos, tudo no mesmo lugar!
+
+Exemplo de lista simples:
+```python
+lista = [1, 2, 3, 4, 5]
+
